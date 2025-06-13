@@ -1,12 +1,8 @@
 ---
 layout: post
-title: "Guia Completo do Git: Aprenda os Comandos Essenciais com Esta Tabela Visual"
+title: "Alô você"
 date: 2025-06-13 09:00:00 +0000
-categories: Git Desenvolvimento
-tags: git github controle de versão cheatsheet
-author: Seu Nome
-description: "Domine os principais comandos do Git com este guia prático baseado em uma cheat sheet visual. Ideal para desenvolvedores e iniciantes."
-image: /assets/images/git-cheat-sheet.png
+categories: alo você
 ---
 
 Se você está começando na programação ou já trabalha em equipes de desenvolvimento, certamente sabe que o **Git** é uma ferramenta indispensável para o controle de versão. E para facilitar sua vida, apresentamos um **resumo visual (Git Cheat Sheet)** com os comandos mais importantes para dominar o Git com eficiência e confiança.
