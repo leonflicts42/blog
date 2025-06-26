@@ -29,6 +29,7 @@ github_username:  leonflicts42
 
 # Build settings
 theme: minima
+#theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
